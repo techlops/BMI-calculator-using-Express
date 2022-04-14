@@ -1,0 +1,14 @@
+{
+  "name": "bmi-calculator-using-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bmi-calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
